@@ -47,6 +47,8 @@ infra tinkerer running NixOS + Hyprland
 
 <img src="https://github-readme-stats.vercel.app/api?username=lillian0x&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=00000000&title_color=000000&text_color=333333&icon_color=000000" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillian0x&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&langs_count=8" width="38%" />
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="38%" />
 
 </div>
 

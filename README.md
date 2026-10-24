@@ -14,14 +14,14 @@ infra tinkerer running NixOS + Hyprland
 
 </div>
 
-<h2>LANGUAGE</h2>
-<img src="https://skillicons.dev/icons?i=c,astro,bun,deno,html,css,js,latex,lua,nix,rust,ts" />
+## LANGUAGE and RUNTIME
+<img src="https://skillicons.dev/icons?i=c,astro,bun,deno,html,css,js,latex,lua,nix,rust,ts,md,bash" />
 
-<h2>OS</sub>
-<img src="https://skillicons.dev/icons?i=arch,linux,ubuntu" />
+## OS
+<img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,debian" />
 
-<h2>INFRA</sub>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,cloudflare,grafana,postgres,prometheus" />
+## INFRA
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,cloudflare,workers,grafana,postgres,prometheus" />
 
-<h2>TOOL</sub>
-<img src="https://skillicons.dev/icons?i=git,github,cmake,neovim,vim" />
+## TOOL
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,neovim,vim" />

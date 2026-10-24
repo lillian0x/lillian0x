@@ -15,7 +15,7 @@ infra tinkerer running NixOS + Hyprland
 </div>
 
 ## LANGUAGE and RUNTIME
-<img src="https://skillicons.dev/icons?i=c,astro,bun,deno,html,css,js,latex,lua,nix,rust,ts,md,bash" />
+<img src="https://skillicons.dev/icons?perline=7&i=c,astro,bun,deno,html,css,js,latex,lua,nix,rust,ts,md,bash" />
 
 ## OS
 <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,debian" />

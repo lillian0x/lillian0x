@@ -2,10 +2,10 @@
 
 infra tinkerer running NixOS + Hyprland
 
-- 🔧 Currently deep in **NixOS** / **nix flakes**, keeping everything declarative
-- ☁️ Wiring up **Kubernetes** clusters with **FluxCD** for GitOps
-- 🖥️ Daily driver: **Linux**, **Hyprland**, **Neovim**
-- 🌱 Writing **Nix**, **TypeScript** and **Lua**, occasionally dropping into **C**
+- Currently deep in NixOS / nix flakes, keeping everything declarative
+- Wiring up Kubernetes clusters with FluxCD for GitOps
+- Daily driver: Linux, Hyprland, Neovim include Japanese Input
+- Writing Nix, TypeScript and Lua, occasionally dropping into C
 
 <div align="center">
 
